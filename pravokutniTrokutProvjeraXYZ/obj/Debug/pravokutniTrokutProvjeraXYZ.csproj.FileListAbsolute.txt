@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\pravokutniTrokutProvjeraXYZ\pravokutniTrokutProvjeraXYZ\bin\Debug\pravokutniTrokutProvjeraXYZ.exe.config
+C:\Users\ucenik\source\repos\pravokutniTrokutProvjeraXYZ\pravokutniTrokutProvjeraXYZ\bin\Debug\pravokutniTrokutProvjeraXYZ.exe
+C:\Users\ucenik\source\repos\pravokutniTrokutProvjeraXYZ\pravokutniTrokutProvjeraXYZ\bin\Debug\pravokutniTrokutProvjeraXYZ.pdb
+C:\Users\ucenik\source\repos\pravokutniTrokutProvjeraXYZ\pravokutniTrokutProvjeraXYZ\obj\Debug\pravokutniTrokutProvjeraXYZ.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\pravokutniTrokutProvjeraXYZ\pravokutniTrokutProvjeraXYZ\obj\Debug\pravokutniTrokutProvjeraXYZ.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\pravokutniTrokutProvjeraXYZ\pravokutniTrokutProvjeraXYZ\obj\Debug\pravokutniTrokutProvjeraXYZ.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\pravokutniTrokutProvjeraXYZ\pravokutniTrokutProvjeraXYZ\obj\Debug\pravokutniTrokutProvjeraXYZ.exe
+C:\Users\ucenik\source\repos\pravokutniTrokutProvjeraXYZ\pravokutniTrokutProvjeraXYZ\obj\Debug\pravokutniTrokutProvjeraXYZ.pdb
